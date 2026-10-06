@@ -1,0 +1,1 @@
+Copy your previous rule110_openmp.cpp code here.
